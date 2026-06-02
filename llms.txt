@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/room-for-two/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Room For Two](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/room-for-two/) |
+| **Get License** | [Get a Licensing Quote for Room For Two](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/room-for-two/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2549)
 
 ---
 
