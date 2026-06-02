@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/room-for-two/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Room For Two](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/room-for-two/) |
+| **Get License** | [License this song: Room For Two](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/room-for-two/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I left the porch light burning, waiting on your drive
+> Just the crickets humming, making me feel alive
+> Pour a little something, let the evening fade
+> Got a spot right here, right where the shadows play
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
