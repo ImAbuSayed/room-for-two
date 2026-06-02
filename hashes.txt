@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Room For Two
+
+This log tracks the cryptographic history and versioning for the song **Room For Two** (room-for-two).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T13:46:59.712656 | `v1` | `823189843d6d96ecc94936832890e8949484fbba4aee8ff608b79ba237f21a00` | `a7e534ca20779b530abbf2be8eef407aff3668c91e56264042fc9e3461522f45` | `2026-06-02_room-for-two-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
